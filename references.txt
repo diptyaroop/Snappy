@@ -1,6 +1,15 @@
 SNAPPY
 
-
 Setup Geth:
-https://arvanaghi.com/blog/testing-smart-contracts-on-a-private-blockchain-with-Geth/
+    1 https://arvanaghi.com/blog/how-to-set-up-a-private-ethereum-blockchain-using-geth/
+     == https://cse.iitk.ac.in/users/dwivedi/Blockchain/geth.pdf
+        
+    1.5 https://ethereum.stackexchange.com/questions/17202/fatal-failed-to-write-genesis-block-wrong-genesis-block-in-database
+    https://ethereum.stackexchange.com/questions/77453/fatal-failed-to-write-genesis-block-unsupported-fork-ordering-eip150block-not
 
+    2 https://arvanaghi.com/blog/testing-smart-contracts-on-a-private-blockchain-with-Geth/
+
+
+
+
+https://github.com/ethereum/go-ethereum/wiki/Managing-your-accounts
