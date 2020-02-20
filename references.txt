@@ -1,0 +1,6 @@
+SNAPPY
+
+
+Setup Geth:
+https://arvanaghi.com/blog/testing-smart-contracts-on-a-private-blockchain-with-Geth/
+
